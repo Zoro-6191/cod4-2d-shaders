@@ -5,6 +5,8 @@ Some of these shaders eat FPS.
 
 This was taught to me by @xoxor4d. The source is mostly his, I only did copying and editing except the .hlsl files.
 
+![](previews/md/sniper menu.mp4)
+
 # How does it Work?
 
 These shaders use [HLSL](https://docs.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl), although I only converted open-source GLSL Shaders to HLSL from [here](https://glslsandbox.com/). [Here's](https://xoxor4d.github.io/tutorials/) a in-depth tutorial by @xoxor4d.
