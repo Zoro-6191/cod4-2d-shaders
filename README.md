@@ -29,6 +29,10 @@ This was taught to me by @xoxor4d. The source is mostly his, I only did copying 
 
 Named after their Material name and in alphabetical order.
 
+- ##  <strong>`button1`</strong>
+
+    ![button1](previews/button1.gif)
+
 - ##  <strong>`fire_bg`</strong>
 
     ![fire_bg(1)](previews/fire_bg(1).gif)
