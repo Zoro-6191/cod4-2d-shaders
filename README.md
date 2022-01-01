@@ -25,7 +25,7 @@ This was taught to me by @xoxor4d. The source is mostly his, I only did copying 
 
 [Wiki](https://github.com/Zoro-6191/cod4-2d-shaders/wiki/How-to-Install-1-shader)
 
-# Shader Previews:
+# Shader Previews
 
 Named after their Material name and in alphabetical order.
 
@@ -40,6 +40,18 @@ Named after their Material name and in alphabetical order.
 - ##  <strong>`loadcircle1`</strong>
 
     ![loadcircle1](previews/loadcircle1.gif)
+
+- ##  <strong>`loadcircle2`</strong>
+
+    ![loadcircle2](previews/loadcircle2.gif)
+
+- ##  <strong>`sick_bg12`</strong>
+
+    ![sick_bg12](previews/sick_bg12.gif)
+
+- ##  <strong>`sick_bg13`</strong>
+
+    ![sick_bg13](previews/sick_bg13.gif)
 
 - ##  <strong>`test_1234`</strong>
 

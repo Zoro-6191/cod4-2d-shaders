@@ -1,0 +1,14 @@
+{
+	stateMap "default2d_alpha";
+
+	vertexShader 3.0 "2d_sick_bg13"
+	{
+	}
+
+	pixelShader 3.0 "2d_sick_bg13"
+	{
+	}
+
+	vertex.position = code.position;
+	vertex.texcoord[0] = code.texcoord[0];
+}
