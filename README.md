@@ -33,6 +33,10 @@ Named after their Material name and in alphabetical order.
 
     ![button1](previews/button1.gif)
 
+- ##  <strong>`button2`</strong>
+
+    ![button2](previews/button2.gif)
+
 - ##  <strong>`fire_bg`</strong>
 
     ![fire_bg(1)](previews/fire_bg(1).gif)

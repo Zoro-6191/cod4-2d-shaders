@@ -1,0 +1,7 @@
+#include "commonsetup.template"
+
+techniqueSet( "hud_button2" );
+
+refImage( "$white" );   // we dont need a custom image because we are using the viewport
+                        // we just need the material to apply our shader on
+                        // we don´t even need to include "white.iwi" in our .iwd
