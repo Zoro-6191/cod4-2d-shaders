@@ -70,6 +70,16 @@ Named after their Material name and in alphabetical order.
     ![sick_bg2](previews/sick_bg2.gif)
 
 
+- ##  <strong>`sick_bg3`</strong>
+
+    ![sick_bg3](previews/sick_bg3.gif)
+
+
+- ##  <strong>`sick_bg4`</strong>
+
+    ![sick_bg4](previews/sick_bg4.gif)
+
+
 - ##  <strong>`sick_bg12`</strong>
 
     ![sick_bg12](previews/sick_bg12.gif)
