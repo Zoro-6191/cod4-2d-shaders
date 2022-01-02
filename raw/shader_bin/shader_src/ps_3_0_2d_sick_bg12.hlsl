@@ -96,7 +96,9 @@ PixelOutput ps_main( const PixelInput pixel )
 	
 	float3 rectColor = float3(0.01, 0.26, 0.57);
 
-	float2 uv = 1.0 - pixel.texcoord.yx * 2.0;
+	float2 uv = 1.0 - pixel.texcoord.xy * 2.0;
+
+    uv.x *= 1.77;
     
     //bg
     float3 color = bg(uv)*(2.-abs(uv.y*2.));
