@@ -2,6 +2,7 @@
 
 This repo contains all of my 2D HLSL UI Components that I've created.
 Some of these shaders eat FPS.
+(I have yet to upload all of them, doing one by one)
 
 https://user-images.githubusercontent.com/52291201/147763164-a512a111-48d6-40ad-8029-a6300c119782.mp4
 
@@ -15,13 +16,15 @@ This was taught to me by @xoxor4d. The source is mostly his, I only did copying 
 
 ## How to Install All Shaders at once?
 
+I don't recommend doing this coz of a weird glitch (which I'll try to fix).<br>
+
 - Be sure that you have [Modtools](https://github.com/promod/CoD4-Mod-Tools) properly installed.
 - Copy and Paste whole `raw/` folder to `cod4/raw/`
 - Go to `cod4/raw/shader_bin/shader_src/` and run `compile.bat`
 
 > You should now be able to use those materials in your mod/map.
 
-## How does install just one shader?
+## How to Install just one shader?
 
 [Wiki](https://github.com/Zoro-6191/cod4-2d-shaders/wiki/How-to-Install-1-shader)
 
@@ -53,9 +56,19 @@ Named after their Material name and in alphabetical order.
 
     ![loadcircle1](previews/loadcircle1.gif)
 
-- ##  <strong>`loadcircle2`</strong>
+- ##  <strong>`loadcircle21`</strong>
 
-    ![loadcircle2](previews/loadcircle2.gif)
+    ![loadcircle21](previews/loadcircle21.gif)
+
+- ##  <strong>`sick_bg1`</strong>
+
+    ![sick_bg1](previews/sick_bg1.gif)
+
+
+- ##  <strong>`sick_bg2`</strong>
+
+    ![sick_bg2](previews/sick_bg2.gif)
+
 
 - ##  <strong>`sick_bg12`</strong>
 
@@ -69,6 +82,10 @@ Named after their Material name and in alphabetical order.
 - ##  <strong>`sick_bg14`</strong>
 
     ![sick_bg14](previews/sick_bg14.gif)
+
+- ##  <strong>`sick_bg15`</strong>
+
+    ![sick_bg15](previews/sick_bg15.gif)
 
 - ##  <strong>`test_1234`</strong>
 
