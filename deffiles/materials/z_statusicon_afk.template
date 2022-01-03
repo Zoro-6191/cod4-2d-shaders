@@ -1,0 +1,12 @@
+#include "commonsetup.template"
+
+techniqueSet( "hud_statusicon_afk" );
+
+textureTable
+{
+    #if "$colorMap$" != ""
+        "colorMap" = streamable map( "@tileColor@", "@filterColor@", "$colorMap$", @nopicmipColor@ ) "@formatColor@" : "colorMap";
+    #endif
+}
+
+refImage( "$colorMap$" );

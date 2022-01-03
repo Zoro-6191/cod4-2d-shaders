@@ -44,7 +44,7 @@ Named after their Material name and in alphabetical order.
 
 - ##  <strong>`fire_bg`</strong>
 
-    [![fire_bg](https://drive.google.com/uc?export=view&id=1dw48yPTQrUEneJzZ70raH3f0ohcbXZX3)](https://drive.google.com/file/d/1dw48yPTQrUEneJzZ70raH3f0ohcbXZX3/view)
+    [![fire_bg](https://i.gyazo.com/ea783d0852c654efe9708988280bd31b.gif)](https://gyazo.com/ea783d0852c654efe9708988280bd31b)
 
 - ##  <strong>`fire_particles`</strong>
 
@@ -75,7 +75,7 @@ Named after their Material name and in alphabetical order.
 
 - ##  <strong>`sick_bg1`</strong>
 
-    [![sick_bg1](https://drive.google.com/uc?export=view&id=1v_VrslcnD644wpKd4sDR65OUJpwtzSRv)](https://drive.google.com/file/d/1v_VrslcnD644wpKd4sDR65OUJpwtzSRv/view)
+    [![sick_bg1](https://i.gyazo.com/d1e57889d11e40bd27b5c7b71bb84abc.gif)](https://gyazo.com/d1e57889d11e40bd27b5c7b71bb84abc)
 
 
 - ##  <strong>`sick_bg2`</strong>
@@ -85,7 +85,7 @@ Named after their Material name and in alphabetical order.
 
 - ##  <strong>`sick_bg3`</strong>
 
-    [![sick_bg3](https://drive.google.com/uc?export=view&id=1Qw5EIJGPtrp80jIe6WRHBKcYVCeKEZFj)](https://drive.google.com/file/d/1Qw5EIJGPtrp80jIe6WRHBKcYVCeKEZFj/view)
+    [![sick_bg3](https://i.gyazo.com/70bd185e91b6c46f7950d9092771f6ac.gif)](https://gyazo.com/70bd185e91b6c46f7950d9092771f6ac)
 
 
 - ##  <strong>`sick_bg4`</strong>
@@ -105,7 +105,7 @@ Named after their Material name and in alphabetical order.
 
 - ##  <strong>`sick_bg13`</strong>
 
-    [![sick_bg13](https://drive.google.com/uc?export=view&id=1Nq4m2lsph0MtPq7YFXyxdHshgbbtQ8e9)](https://drive.google.com/file/d/1Nq4m2lsph0MtPq7YFXyxdHshgbbtQ8e9/view)
+    [![sick_bg13](https://i.gyazo.com/fa36bc5e429581afa8955101a3785e3f.gif)](https://gyazo.com/fa36bc5e429581afa8955101a3785e3f)
 
 - ##  <strong>`sick_bg14`</strong>
 
@@ -118,6 +118,10 @@ Named after their Material name and in alphabetical order.
 - ##  <strong>`sick_bg16`</strong>
 
     [![sick_bg16](https://drive.google.com/uc?export=view&id=11CAak4dE-gy9tFBl6ZIxgKlwCgXIXimT)](https://drive.google.com/file/d/11CAak4dE-gy9tFBl6ZIxgKlwCgXIXimT/view)
+
+- ##  <strong>`statusicon_afk`</strong>
+
+    ![statusicon_afk](https://user-images.githubusercontent.com/52291201/147951225-1e061b48-8646-473e-909f-51c45f18f926.png)
 
 - ##  <strong>`test_1234`</strong>
 

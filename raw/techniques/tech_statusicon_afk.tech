@@ -1,0 +1,16 @@
+{
+	stateMap "default2d_alpha";
+
+	vertexShader 3.0 "2d_statusicon_afk"
+	{
+	}
+
+	pixelShader 3.0 "2d_statusicon_afk"
+	{
+		colorMapSampler = material.colorMap;
+	}
+
+	vertex.position = code.position;
+	vertex.texcoord[0] = code.texcoord[0];
+	//vertex.color[0] = code.color;
+}
