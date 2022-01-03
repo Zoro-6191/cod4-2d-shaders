@@ -4,7 +4,7 @@ This repo contains all of my 2D HLSL UI Components that I've created.
 Some of these shaders eat FPS.
 (I have yet to upload all of them, doing one by one)
 
-https://user-images.githubusercontent.com/52291201/147763164-a512a111-48d6-40ad-8029-a6300c119782.mp4
+[![menu](https://i.gyazo.com/0f9f2d85b08daa85e58f42355321fcda.gif)](https://gyazo.com/0f9f2d85b08daa85e58f42355321fcda)
 
 This was taught to me by @xoxor4d. The source is mostly his, I only did copying and editing except the .hlsl files.
 
@@ -32,94 +32,94 @@ Named after their Material name and in alphabetical order.
 
 - ##  <strong>`button1`</strong>
 
-    [![button1](https://i.gyazo.com/c45ae3e8f6a8d3571ec7e5aa40dbbb32.gif)](https://gyazo.com/c45ae3e8f6a8d3571ec7e5aa40dbbb32)
+    [![button1](https://drive.google.com/uc?export=view&id=1ewEOy7_TK9lba1TwJ2KFz1FHXcMDtyzh)](https://drive.google.com/file/d/1ewEOy7_TK9lba1TwJ2KFz1FHXcMDtyzh/view)
 
 - ##  <strong>`button2`</strong>
 
-    ![button2](previews/button2.gif)
+    [![button2](https://drive.google.com/uc?export=view&id=12p1mRO3VRNfY5t8yv3CQ7qWTvDxLBrxA)](https://drive.google.com/file/d/12p1mRO3VRNfY5t8yv3CQ7qWTvDxLBrxA/view)
 
 - ##  <strong>`button3`</strong>
 
-    ![button3](previews/button3.gif)
+    [![button2](https://drive.google.com/uc?export=view&id=1rZBqncmkXcISV1sBeEPMSBVLylEM1Q1u)](https://drive.google.com/file/d/1rZBqncmkXcISV1sBeEPMSBVLylEM1Q1u/view)
 
 - ##  <strong>`fire_bg`</strong>
 
-    [![fire_bg](https://i.gyazo.com/ea783d0852c654efe9708988280bd31b.gif)](https://gyazo.com/ea783d0852c654efe9708988280bd31b)
+    [![fire_bg](https://drive.google.com/uc?export=view&id=1dw48yPTQrUEneJzZ70raH3f0ohcbXZX3)](https://drive.google.com/file/d/1dw48yPTQrUEneJzZ70raH3f0ohcbXZX3/view)
 
 - ##  <strong>`fire_particles`</strong>
 
-    ![fire_particles](previews/fire_particles.gif)
+    [![fire_particles](https://drive.google.com/uc?export=view&id=1yOJA16K4EqCi2ysbcFKe1pnY1svpaXoM)](https://drive.google.com/file/d/1yOJA16K4EqCi2ysbcFKe1pnY1svpaXoM/view)
 
 - ##  <strong>`loadcircle1`</strong>
 
-    ![loadcircle1](previews/loadcircle1.gif)
+    [![loadcircle1](https://drive.google.com/uc?export=view&id=1A_n9z1lPiei9IFb07H2rKDrMIJ_VwoOJ)](https://drive.google.com/file/d/1A_n9z1lPiei9IFb07H2rKDrMIJ_VwoOJ/view)
 
 - ##  <strong>`loadcircle21`</strong>
 
-    ![loadcircle21](previews/loadcircle21.gif)
+    [![loadcircle21](https://drive.google.com/uc?export=view&id=1dNgDqWXsL6VS42XF2epmloDuFZ7gMP5i)](https://drive.google.com/file/d/1dNgDqWXsL6VS42XF2epmloDuFZ7gMP5i/view)
 
 - ##  <strong>`misc1`</strong>
 
-    [![misc1](https://i.gyazo.com/e9f6608a00e207ab6f4331b571d99b6e.gif)](https://gyazo.com/e9f6608a00e207ab6f4331b571d99b6e)
+    [![misc1](https://drive.google.com/uc?export=view&id=19W3Qa6ri5V3zdkOlEqirnMuFBRPxuWbX)](https://drive.google.com/file/d/19W3Qa6ri5V3zdkOlEqirnMuFBRPxuWbX/view)
 
 
 - ##  <strong>`misc2`</strong>
 
-    [![misc2](https://i.gyazo.com/be3ae0816b31578929c52fe2d9981a3d.gif)](https://gyazo.com/be3ae0816b31578929c52fe2d9981a3d)
+    [![misc2](https://drive.google.com/uc?export=view&id=1y-uOkRPhTP9pka4jOpQj0wUkyogJxCfh)](https://drive.google.com/file/d/1y-uOkRPhTP9pka4jOpQj0wUkyogJxCfh/view)
 
 
 - ##  <strong>`misc3`</strong>
 
-    [![misc3](https://i.gyazo.com/092d71d0e677f23e02f2166369dfbeb4.gif)](https://gyazo.com/092d71d0e677f23e02f2166369dfbeb4)
+    [![misc3](https://drive.google.com/uc?export=view&id=1I4aWJQo54TXWRQ12F8TVNjro2Y-ZgESu)](https://drive.google.com/file/d/1I4aWJQo54TXWRQ12F8TVNjro2Y-ZgESu/view)
 
 
 - ##  <strong>`sick_bg1`</strong>
 
-    [![sick_bg1](https://i.gyazo.com/d1e57889d11e40bd27b5c7b71bb84abc.gif)](https://gyazo.com/d1e57889d11e40bd27b5c7b71bb84abc)
+    [![sick_bg1](https://drive.google.com/uc?export=view&id=1v_VrslcnD644wpKd4sDR65OUJpwtzSRv)](https://drive.google.com/file/d/1v_VrslcnD644wpKd4sDR65OUJpwtzSRv/view)
 
 
 - ##  <strong>`sick_bg2`</strong>
 
-    [![sick_bg2](https://i.gyazo.com/34203c7cb91cc3b7cac84c95f81226c4.gif)](https://gyazo.com/34203c7cb91cc3b7cac84c95f81226c4)
+    [![sick_bg2](https://drive.google.com/uc?export=view&id=1ZRYbbiL47gXnlWhWb_8zBwDOxuig8Wvd)](https://drive.google.com/file/d/1ZRYbbiL47gXnlWhWb_8zBwDOxuig8Wvd/view)
 
 
 - ##  <strong>`sick_bg3`</strong>
 
-    [![sick_bg3](https://i.gyazo.com/70bd185e91b6c46f7950d9092771f6ac.gif)](https://gyazo.com/70bd185e91b6c46f7950d9092771f6ac)
+    [![sick_bg3](https://drive.google.com/uc?export=view&id=1Qw5EIJGPtrp80jIe6WRHBKcYVCeKEZFj)](https://drive.google.com/file/d/1Qw5EIJGPtrp80jIe6WRHBKcYVCeKEZFj/view)
 
 
 - ##  <strong>`sick_bg4`</strong>
 
-    [![sick_bg4](https://i.gyazo.com/7a405cba7dd078901f12ca3f599987b3.gif)](https://gyazo.com/7a405cba7dd078901f12ca3f599987b3)
+    [![sick_bg4](https://drive.google.com/uc?export=view&id=1ZVkFesnYUCMXhaba3fcS7GDzmWHRVaWA)](https://drive.google.com/file/d/1ZVkFesnYUCMXhaba3fcS7GDzmWHRVaWA/view)
 
 
 - ##  <strong>`sick_bg5`</strong>
 
-    [![sick_bg5](https://i.gyazo.com/fce526c71e20ce91983be2839df0fe00.gif)](https://gyazo.com/fce526c71e20ce91983be2839df0fe00)
+    [![sick_bg5](https://drive.google.com/uc?export=view&id=1Yku2lIoCWU3tZcTshSemeA8lfz5RSn_m)](https://drive.google.com/file/d/1Yku2lIoCWU3tZcTshSemeA8lfz5RSn_m/view)
 
 
 - ##  <strong>`sick_bg12`</strong>
 
-    [![sick_bg12](https://i.gyazo.com/e7a4ae0aae80bf3ae2b647bd97090f02.gif)](https://gyazo.com/e7a4ae0aae80bf3ae2b647bd97090f02)
+    [![sick_bg12](https://drive.google.com/uc?export=view&id=1pHDCkh4aU0jk0s0TW22uhNPTz_2da7qE)](https://drive.google.com/file/d/1pHDCkh4aU0jk0s0TW22uhNPTz_2da7qE/view)
 
 
 - ##  <strong>`sick_bg13`</strong>
 
-    [![sick_bg13](https://i.gyazo.com/fa36bc5e429581afa8955101a3785e3f.gif)](https://gyazo.com/fa36bc5e429581afa8955101a3785e3f)
+    [![sick_bg13](https://drive.google.com/uc?export=view&id=1Nq4m2lsph0MtPq7YFXyxdHshgbbtQ8e9)](https://drive.google.com/file/d/1Nq4m2lsph0MtPq7YFXyxdHshgbbtQ8e9/view)
 
 - ##  <strong>`sick_bg14`</strong>
 
-    [![sick_bg14](https://i.gyazo.com/2adf2d9413e4b99c369d76239451b1a9.gif)](https://gyazo.com/2adf2d9413e4b99c369d76239451b1a9)
+    [![sick_bg14](https://drive.google.com/uc?export=view&id=1-uJvJBEatVFuTYwrZFpfSaCvKqdkksu-)](https://drive.google.com/file/d/1-uJvJBEatVFuTYwrZFpfSaCvKqdkksu-/view)
 
 - ##  <strong>`sick_bg15`</strong>
 
-    [![sick_bg15](https://i.gyazo.com/a72df5dac516e13da87fd0942337e373.gif)](https://gyazo.com/a72df5dac516e13da87fd0942337e373)
+    [![sick_bg15](https://drive.google.com/uc?export=view&id=11rFTGpUzsvFC_WPcyzGw7bhX_CQsYx6Q)](https://drive.google.com/file/d/11rFTGpUzsvFC_WPcyzGw7bhX_CQsYx6Q/view)
 
 - ##  <strong>`sick_bg16`</strong>
 
-    [![sick_bg16](https://i.gyazo.com/0df58ab08c5f7899d2a8514fd5f895ff.gif)](https://gyazo.com/0df58ab08c5f7899d2a8514fd5f895ff)
+    [![sick_bg16](https://drive.google.com/uc?export=view&id=11CAak4dE-gy9tFBl6ZIxgKlwCgXIXimT)](https://drive.google.com/file/d/11CAak4dE-gy9tFBl6ZIxgKlwCgXIXimT/view)
 
 - ##  <strong>`test_1234`</strong>
 
-    [![test_1234](https://i.gyazo.com/c9f88c6373e6ae995fb359a40cf1bdb1.gif)](https://gyazo.com/c9f88c6373e6ae995fb359a40cf1bdb1)
+    [![test_1234](https://drive.google.com/uc?export=view&id=1kJ8st7wUWRSUwloJh5OdkGnpVFv7bLzp)](https://drive.google.com/file/d/1kJ8st7wUWRSUwloJh5OdkGnpVFv7bLzp/view)
 
